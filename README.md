@@ -28,10 +28,6 @@ This project builds an AI model that:
 
 ## 📊 Dataset
 
-I created a **custom dataset** using publicly available sources:  
-
-- [Covid-19 Chest X-rays (GitHub)](https://github.com/ieee8023/covid-chestxray-dataset)  
-- [Pneumonia Chest X-rays (Kaggle)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)  
 
 Each category (Normal, Covid-19, Viral Pneumonia, Bacterial Pneumonia) contains **133 X-ray images** → ~532 images in total.
 

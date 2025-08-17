@@ -81,7 +81,8 @@ import pandas as pd
 
 👨‍💻 Author
 
-Utkarsh Shukla
-🔗 LinkedIn | 🔗 GitHub
+## 👤 Author
+**Utkarsh Shukla**  
+🔗 [LinkedIn](https://www.linkedin.com/in/utkarshshukla111)  
 
 ---
